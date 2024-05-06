@@ -26,3 +26,7 @@ Run the `run.py` script to start the application:
 
 ```bash
 python run.py
+
+## Apology
+```bash
+ Sorry for the delay !!! ```
